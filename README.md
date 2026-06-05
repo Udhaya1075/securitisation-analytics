@@ -33,9 +33,6 @@ and advanced DAX analytics.
 ### Files in This Repository
 - Dashboard.pbix: Power BI dashboard file
 - MainReport.pdf: Complete project report
-- Presentation.pdf: 10-slide presentation
 - DAX_Dictionary.xlsx: All measures documented
 - 4 Excel data files: Source datasets
 
-Regards,
-[YOUR NAME]
