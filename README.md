@@ -6,11 +6,6 @@ Financial risk assessment platform for auto loan
 securitisation portfolio using Microsoft Power BI 
 and advanced DAX analytics.
 
-### Submitted By
-Name: [YOUR NAME]
-Project Code: [YOUR CODE]
-Date: [TODAY'S DATE]
-
 ### Dashboards Built (5 of 8)
 1. Executive Summary - Portfolio health overview
 2. DPD Analysis - Delinquency monitoring
