@@ -26,7 +26,6 @@ and advanced DAX analytics.
 
 ### Tools Used
 - Microsoft Power BI Desktop
-- DAX Studio
 - Microsoft Excel
 - GitHub
 
