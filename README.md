@@ -1,6 +1,10 @@
 # Securitisation AI Agent
 ## Financial Risk Assessment Dashboard
 
+**Submitted by:** Udhayachandrika S
+**Date:** 5/6/2026
+**Submitted to:** Zetheta Algorithms Pvt Ltd
+
 ### Project Overview
 Financial risk assessment platform for auto loan 
 securitisation portfolio using Microsoft Power BI 
